@@ -1,4 +1,5 @@
-# Calculadora feita em java# 💰 Spring Boot Banking API
+
+# 💰 Spring Boot Banking API
 
 RESTful API for banking operations built with Spring Boot (accounts, transactions, and balance management).
 
