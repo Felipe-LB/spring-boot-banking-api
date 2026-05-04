@@ -10,4 +10,12 @@ public class Transaction {
         this.valor = valor;
         this.dataHora = dataHora;
     }
+
+    public double getValor() {
+        return valor;
+    }
+
+    public OffsetDateTime getDataHora() {
+        return dataHora;
+    }
 }
